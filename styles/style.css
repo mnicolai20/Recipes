@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/fresh.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#header{
+    text-align: center;
+    background: hsl(0, 0%, 100%, 40%);
+}
+
+.background{
+    text-align: center;
+    background: hsl(0, 0%, 100%, 40%);
+}
