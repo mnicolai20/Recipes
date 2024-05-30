@@ -17,6 +17,10 @@ body{
     }
 
     #groceries{
+        block-size: 800px;
+        margin-left: 25%;
+        margin-right: 25%;
+       
         
     }
 
@@ -35,5 +39,5 @@ body{
     }
 
     .ingredientSet{
-        padding-left: 37%;
+        border-color: blue;
     }
