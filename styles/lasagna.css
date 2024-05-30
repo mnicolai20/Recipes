@@ -17,7 +17,7 @@ body{
     }
 
     #groceries{
-        text-align: center;
+        
     }
 
     #statement{
@@ -32,4 +32,8 @@ body{
 
     #las{
         text-align: center;
+    }
+
+    .ingredientSet{
+        padding-left: 37%;
     }
