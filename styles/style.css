@@ -9,9 +9,16 @@ body{
 #header{
     text-align: center;
     background: hsl(0, 0%, 100%, 40%);
+    font-size: 50px;
+    font-weight: bold;
 }
 
 .background{
     text-align: center;
     background: hsl(0, 0%, 100%, 40%);
+}
+
+.recList{
+    font-weight: bold;
+    font-size: 30px;
 }

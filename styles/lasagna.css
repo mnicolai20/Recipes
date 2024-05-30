@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to left, rgb(189, 46, 46), white);
+}
+
+.header{
+    text-align: center;
+    background: hsl(0, 0%, 100%, 40%);
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.desc{
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #groceries{
+        text-align: center;
+    }
+
+    #statement{
+        text-align: center;
+    }
+
+    #pic{
+        position: relative;
+        height: 300px;
+        width: auto;   
+    }
+
+    #las{
+        text-align: center;
+    }
