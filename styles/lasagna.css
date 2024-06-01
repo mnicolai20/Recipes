@@ -1,5 +1,18 @@
 body{
     background: linear-gradient(to left, rgb(189, 46, 46), white);
+    width: 800px;
+    margin: 0 auto;
+}
+.block1{
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.block2{
+    display: inline-block;
+    margin-left: 9%;
+    position: absolute;
+    padding-top: 2%
 }
 
 .header{
@@ -17,9 +30,7 @@ body{
     }
 
     #groceries{
-        size: 800px;
-        margin-left: 43%;
-        margin-right: 40%;
+        padding-left: 43%;
     }
 
     #statement{
@@ -28,7 +39,7 @@ body{
 
     #pic{
         position: relative;
-        height: 300px;
+        height: 200px;
         width: auto;   
     }
 
